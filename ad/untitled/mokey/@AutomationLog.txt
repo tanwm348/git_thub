@@ -1,0 +1,6 @@
+2019-07-24 17:38:59.655 test_uiautomation.py[7] <module> -> Find Control Timeout: {ClassName: 'CalcFrame', ControlType: WindowControl}
+2019-07-24 17:45:05.915 test_uiautomation.py[31] <module> -> Find Control Timeout: {Name: '7', ControlType: ButtonControl}
+2019-07-24 17:47:43.581 test_uiautomation.py[31] <module> -> Find Control Timeout: {Name: '7', ControlType: ButtonControl}
+2019-07-24 17:48:10.629 test_uiautomation.py[31] <module> -> Find Control Timeout: {Name: '7', ControlType: ButtonControl}
+2019-07-24 18:30:36.312 test_uiautomation.py[42] <module> -> Find Control Timeout: {AutomationId: '15', ControlType: TextControl}
+2019-07-24 19:01:43.475 test_uiautomation.py[10] <module> -> Find Control Timeout: {ClassName: 'CalcFrame', ControlType: WindowControl}

@@ -1,0 +1,809 @@
+1562212854712	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Beyiile9QArt"
+1562212857375	Marionette	INFO	Listening on port 52894
+1562212857492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Parent 9076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ead] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562212917672	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yyD4REsFQx03"
+1562212920634	Marionette	INFO	Listening on port 53009
+1562212921016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Parent 9936, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+leone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 9996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9996, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1562212974379	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.sa5Xh1MCtQst"
+1562212976815	Marionette	INFO	Listening on port 53104
+1562212977171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Child 7780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4632, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562213196849	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.P1dE9EZkjBIJ"
+1562213199321	Marionette	INFO	Listening on port 53170
+1562213199654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 1852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7828, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9816, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562213298262	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.NMPeMxp3kSfS"
+1562213300733	Marionette	INFO	Listening on port 53333
+1562213301051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Parent 9752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9752, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562213340234	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.06spupfOqThe"
+1562213342953	Marionette	INFO	Listening on port 53385
+1562213343072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8932, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562217105283	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.l7v036LLHiJs"
+1562217107871	Marionette	INFO	Listening on port 54305
+1562217108201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 6400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10072, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562224483078	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.S7sTFGx5OdSM"
+1562224485352	Marionette	INFO	Listening on port 50390
+1562224485809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Child 3116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 4896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3280, Chrome_ChildThread] WARNING: pipe error: 109: file[Child 10112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9716, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+1562224794178	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.rCCLZzNCpaeX"
+1562224796357	Marionette	INFO	Listening on port 50657
+1562224796415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 3220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3220, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 7888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+statement
+[Child 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562224885142	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IUKY2eB6i3Nc"
+1562224887407	Marionette	INFO	Listening on port 50759
+1562224887864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Parent 9684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9684, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562224954835	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VxdEWlXrngHM"
+1562224957048	Marionette	INFO	Listening on port 50808
+1562224957071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 9956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9956, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 4612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs
+[Parent 8684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8684, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562228317041	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qS2dUGQh4XDP"
+1562228319231	Marionette	INFO	Listening on port 51323
+1562228319301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 8660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8660, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562228433058	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DSoZjPh5jLly"
+1562228435261	Marionette	INFO	Listening on port 51385
+1562228435357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://imgcache.qq.com/qcloud/main/scripts/release/common/deps.c9c03d847ea7b014b47d.js?max_age=31536000, line 7: TypeError: sessionStorage is null
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: https://imgcache.qq.com/operation/dianshi/script/raven.min.ded8781998f88881547d1fff59b449244e3b7168.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562228703460	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iwj3vmXazqxe"
+1562228705643	Marionette	INFO	Listening on port 51655
+1562228705717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 8300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8300, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 3368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562234077913	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.FKXcZs47B0wn"
+1562234080416	Marionette	INFO	Listening on port 53175
+1562234080703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 7044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: ChaJavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 8552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9424, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562234199086	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j7XRRzslrTRy"
+1562234201158	Marionette	INFO	Listening on port 53292
+1562234201220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://ent.zdface.com/mxkb/2019-05-28/789708_2.shtml, line 90: TypeError: Omore is null
+JavaScript error: http://ent.zdface.com/mxkb/2019-05-28/789708_3.shtml, line 90: TypeError: Omore is null
+[Parent 7996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7996, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 8716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562236640105	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.QpqF6SaYx9gG"
+1562236642346	Marionette	INFO	Listening on port 54264
+1562236642842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+4HM7FF"
+1562237010871	Marionette	INFO	Listening on port 54421
+1562237011372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+[Child 8540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9276, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562237394503	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Md4nTSRnlrV9"
+1562237396651	Marionette	INFO	Listening on port 54539
+1562237396753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 9224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7612, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 9108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9108, Gecko_IOThread] WARNING: file z:/build/build/src[Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6764, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562237947354	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.01ABUaaSvDDn"
+1562237949597	Marionette	INFO	Listening on port 54765
+1562237950095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 6648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 9848, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+annot send/recv
+
+1562241578735	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.mo4rXZOk92B7"
+1562241581101	Marionette	INFO	Listening on port 56235
+1562241581460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 4496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 3356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6120, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 7496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4B0006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+leone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 10272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4920, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 4920, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+y/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1562241991121	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.36xsNMwcN6uw"
+1562241996115	Marionette	INFO	Listening on port 56538
+1562241996156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11040, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 4792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 2604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3220, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 9424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: http://localhost/Agileone/Agileone_1.2/index.php/notice, line 1: ReferenceError: calendar is not defined
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4908, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+y/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 5568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5568, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+[Child 9308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 8068, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 11872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 11872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 12016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562242803988	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TJOCz0Fcr9pB"
+1562242806162	Marionette	INFO	Listening on port 57007
+1562242806232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 1092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1092, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562242866643	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7O4j0GKqltld"
+1562242868834	Marionette	INFO	Listening on port 57070
+1562242868880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/index.php/notice#top, line 1: ReferenceError: calendar is not defined
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 10420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8336, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8364, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 11572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10820, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562243136405	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IvWb3VlNkpAn"
+1562243138681	Marionette	INFO	Listening on port 57303
+1562243139215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10412, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562291172473	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.37lUWPuZocoV"
+1562291174619	Marionette	INFO	Listening on port 50098
+1562291174736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1562291215976	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.49Ix4RNo3hgH"
+1562291218250	Marionette	INFO	Listening on port 50143
+1562291218289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Paren1562291300045	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.N48SkI3BX6BM"
+1562291302457	Marionette	INFO	Listening on port 50197
+1562291302802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/index.php/notice, line 1: ReferenceError: calendar is not defined
+[Parent 8332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 6952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562291439697	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.pNt03qjclsta"
+1562291441895	Marionette	INFO	Listening on port 50273
+1562291441947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 8024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8024, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1562291476408	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WycAECDQ84T2"
+1562291478587	Marionette	INFO	Listening on port 50322
+1562291478643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1562291543840	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.r2w3O9wXa5Ky"
+1562291546133	Marionette	INFO	Listening on port 50377
+1562291546591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript error: http://localhost/Agileone/Agileone_1.2/index.php/notice, line 1: ReferenceError: calendar is not defined
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 1096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 164, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+uild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 824, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 5092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eters
+1562291939758	mozrunner::runner	INFO	Running command: "D:\\woniu\\Software\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DSslAAaleCXk"
+1562291942336	Marionette	INFO	Listening on port 50570
+1562291942552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7408, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/base/process_util_win.cc, line 166
+[GPU 5028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s
+[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil1562292377920	Marionette	INFO	Listening on port 50752
+1562292378345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3204, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 2876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b1562292567234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+JavaScript warning: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/Agileone/Agileone_1.2/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+[Parent 3356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3356, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[GPU 8632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3356, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7792, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
